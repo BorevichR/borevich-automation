@@ -14,7 +14,7 @@ export default function Footer() {
             </span>
           </div>
           <p className="text-gray-400 text-sm text-center">
-            © 2025 Borevich Automation. Автоматизация с ИИ
+            © 2026 Borevich Automation. Автоматизация с ИИ
           </p>
           <a
             href="https://t.me/BorevichAutomation_bot"
